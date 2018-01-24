@@ -1,0 +1,3 @@
+rootProject.name = 'ParkIT'
+
+include ':app'
